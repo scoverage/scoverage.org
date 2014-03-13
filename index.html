@@ -1,35 +1,13 @@
+---
+layout: default
+title: Scoverage
+---
 
-<html>
-<head>
-
-<title>Scoverage</title>
-
-<style type="text/css">
-
-body { 
-background-color:	#ffffff; 
-margin:				50px 30px 50px 30px; 
-font-family:		Verdana, Arial, Tahoma, Trebuchet MS, Sans-serif;
-font-size:			11px;
-color:				#000;
-background-color:	#fff;
-}
-#content  {
-padding:			22px 15px 25px 15px;
-text-align: center;
-}
-</style>
-
-</head>
-
-<body>
- 
-<div id="content">
-
-<p><img src="https://avatars1.githubusercontent.com/u/5998302?s=300"></p>
-
+<div id="home">
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
 </div>
-
-</body>
-
-</html>
