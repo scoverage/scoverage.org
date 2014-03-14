@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "0.95.7 Release"
+date:   2014-01-12
+categories: announcements
+---
+
+* Fixed bug with return value in pattern match
+* Improved support for classname excludes
+* Fixed spurious trailing green line breaks

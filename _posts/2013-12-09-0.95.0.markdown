@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "0.95.3 Release"
+date:   2014-01-05
+categories: announcements
+---
+
+* First stable release.
+* Statement level coverage.
+* Branch coverage for if, pattern match, partial function.
+* HTML Generator.
+* Cobertura report generator.

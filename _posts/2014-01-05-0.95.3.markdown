@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "0.95.3 Release"
+date:   2014-01-05
+categories: announcements
+---
+
+* Fixed support for for comprehensions.
+* Optimzed support for nested method calls.
+* Fixed exclude package bug
+* Now supports nested packages

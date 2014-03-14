@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "0.95.9 Release"
+date:   2014-03-08
+categories: announcements
+---
+
+* SBT plugin import issue fixed
+* Fixed windows line ending issues
+* Use relative href for source view
+* Add support for exclude by file name
