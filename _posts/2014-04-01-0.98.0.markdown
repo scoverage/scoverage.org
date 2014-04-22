@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "0.98.0 Release"
+date:   2014-04-01
+categories: announcements
+---
+
+* Moved to org.scoverage groupId
+* Measurement files now thread safe
+* Add statement ID to report, to aid debugging (Richard Bradley)
+* Add support for coverage exclusion comments (Richard Bradley)
