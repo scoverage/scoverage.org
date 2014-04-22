@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "0.98.2 Release"
+date:   2014-04-18
+categories: announcements
+---
+
+* Macros are now skipped instead of crashing
+* Final vals are corrected measured
+* Fixed parallel tests
+* Test runner added for compiler
+* Pre-compile phase added to run after typer and before namer
+* Default parameters are now handled
+* Improved handling of multiple measurement data
