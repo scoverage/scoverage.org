@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "0.99.2 Release"
+date:   2014-05-15
+categories: announcements
+---
+
+* 2.11 support
+* 2.10 support dropped
+* Fixes for macro expansion
+* Fixes for @unchecked
+* Fixes for for-comprehensions
+* Min coverage setting
+* Performance enhancements (thanks to Richard Bradley)
