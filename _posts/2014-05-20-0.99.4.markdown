@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "0.99.4 Release"
+date:   2014-05-20
+categories: announcements
+---
+
+* Fixed issue with min coverage
