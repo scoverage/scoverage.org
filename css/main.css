@@ -157,3 +157,36 @@ a:visited { color: #a0a; }
 .post pre.terminal code {
   background-color: #333;
 }
+
+
+/* WorkFlow */
+#workflow {
+  height:375px
+}
+
+#workflow h2 {
+  margin: 10px;
+}
+
+#workflow div {
+  background: #eeeeee;
+  float: left;
+  width: 158px;
+  margin-right: 50px;
+  height: 100%;
+  position: relative;
+}
+
+#workflow .arrow {
+  font-size:40px;
+  position: absolute;
+  left: 165px;
+  top: 180px;
+}
+
+#workflow img {
+  border-radius: 8px;
+  margin-top:10px;
+  margin-left:20px;
+  background: white;
+}
