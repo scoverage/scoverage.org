@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "0.99.7 Release"
+date:   2014-07-20
+categories: announcements
+---
+
+* #45 Support final vals in annotations
+* #42 Fixed cobertura output for ratio values
